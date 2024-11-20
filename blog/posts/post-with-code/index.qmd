@@ -1,9 +1,27 @@
 ---
-title: "Post With Code"
-author: "Harlow Malloc"
-date: "2024-10-23"
-categories: [news, code, analysis]
-image: "image.jpg"
+title: "Henrik Andersson"
+subtitle: "Modeller | Architect | Educator"
+# `profile.jpg` photo by Jan Tinneberg on https://unsplash.com
+image: profile.jpg
+about: # https://quarto.org/docs/websites/website-about.html
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/ecomodeller
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/henrik-andersson-8205b386/
 ---
 
-This is a post with executable code.
+A little bit about me and my life.
+
+## Education
+
+MSc - Marine chemistry |\  University of Gothenburg, Sweden \| 2001
+PhD - Geoscience |\ Utrecht University, The Netherlands \| 2007
+
+
+## Experience
+
+Workplace \| Job title \| April 20XX - present

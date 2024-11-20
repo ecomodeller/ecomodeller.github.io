@@ -1,16 +1,28 @@
 ---
-title: "Henrik Andersson - `ecomodeller`"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+title: "Henrik Andersson"
+subtitle: "Modeller | Architect | Educator"
+# `profile.jpg` photo by Jan Tinneberg on https://unsplash.com
+image: profile.jpg
+about: # https://quarto.org/docs/websites/website-about.html
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/ecomodeller
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/henrik-andersson-8205b386/
 ---
 
-# Testing, testing
+## Education
+
+MSc - Marine chemistry |\  University of Gothenburg, Sweden \| 2001
+
+PhD - Geoscience |\ Utrecht University, The Netherlands \| 2007
 
 
+## Experience
+
+DHI \| Ecological modeller, innovation engineer, program manager \| July 2008 - present
+
+DMI \| Ecological modeller \| July 2006 - July 2008
