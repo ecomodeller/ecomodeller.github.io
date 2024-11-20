@@ -9,9 +9,23 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Henrik Andersson - ecomodeller",
+    "title": "Henrik Andersson",
     "section": "",
-    "text": "Testing, testing\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nOct 23, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nOct 20, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "MSc - Marine chemistry |  University of Gothenburg, Sweden | 2001\nPhD - Geoscience | Utrecht University, The Netherlands | 2007"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Henrik Andersson",
+    "section": "",
+    "text": "MSc - Marine chemistry |  University of Gothenburg, Sweden | 2001\nPhD - Geoscience | Utrecht University, The Netherlands | 2007"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Henrik Andersson",
+    "section": "Experience",
+    "text": "Experience\nDHI | Ecological modeller, innovation engineer, program manager | July 2008 - present\nDMI | Ecological modeller | July 2006 - July 2008"
   },
   {
     "objectID": "about.html",
@@ -23,8 +37,22 @@
   {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "title": "Henrik Andersson",
     "section": "",
-    "text": "This is a post with executable code."
+    "text": "A little bit about me and my life."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#education",
+    "href": "posts/post-with-code/index.html#education",
+    "title": "Henrik Andersson",
+    "section": "Education",
+    "text": "Education\nMSc - Marine chemistry |  University of Gothenburg, Sweden | 2001 PhD - Geoscience | Utrecht University, The Netherlands | 2007"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#experience",
+    "href": "posts/post-with-code/index.html#experience",
+    "title": "Henrik Andersson",
+    "section": "Experience",
+    "text": "Experience\nWorkplace | Job title | April 20XX - present"
   }
 ]
